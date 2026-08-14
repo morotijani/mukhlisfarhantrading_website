@@ -17,16 +17,16 @@
 <!-- ================= PAGE HERO (short) ================= -->
 <section style="background:var(--charcoal);color:var(--cream);padding:150px 0 64px;">
   <div class="wrap">
-    <div class="breadcrumb"><a href="index.php">Home</a><span class="sep">/</span><span class="current">Contact</span></div>
+    <div class="breadcrumb"><a href="index">Home</a><span class="sep">/</span><span class="current">Contact</span></div>
     <div class="eyebrow">Get in touch</div>
     <h1 style="font-size:clamp(2.4rem,4.6vw,3.6rem);color:var(--cream);margin:18px 0 20px;max-width:16ch;">Come by, call, or write in.</h1>
     <p style="color:var(--cream-dim);font-size:16.5px;max-width:52ch;">The office is in Konongo, but every division can be reached directly. Tell us what you need and which trade it concerns, and we'll get back to you.</p>
 
     <div class="contact-quick reveal">
-      <a href="mining-equipment.php"><span class="lbl">Div. 01</span><span class="nm">Mining Equipment</span></a>
-      <a href="farm-machinery.php"><span class="lbl">Div. 02</span><span class="nm">Farm Machinery</span></a>
-      <a href="cattle-farming.php"><span class="lbl">Div. 03</span><span class="nm">Cattle Farming</span></a>
-      <a href="gold-trading.php"><span class="lbl">Div. 04</span><span class="nm">Gold Trading</span></a>
+      <a href="mining-equipment"><span class="lbl">Div. 01</span><span class="nm">Mining Equipment</span></a>
+      <a href="farm-machinery"><span class="lbl">Div. 02</span><span class="nm">Farm Machinery</span></a>
+      <a href="cattle-farming"><span class="lbl">Div. 03</span><span class="nm">Cattle Farming</span></a>
+      <a href="gold-trading"><span class="lbl">Div. 04</span><span class="nm">Gold Trading</span></a>
     </div>
   </div>
 </section>

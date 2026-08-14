@@ -12,18 +12,18 @@
       <div>
         <h4>Divisions</h4>
         <ul>
-          <li><a href="mining-equipment.php">Mining Equipment</a></li>
-          <li><a href="farm-machinery.php">Farm Machinery</a></li>
-          <li><a href="cattle-farming.php">Cattle Farming</a></li>
-          <li><a href="gold-trading.php">Gold Trading</a></li>
+          <li><a href="mining-equipment">Mining Equipment</a></li>
+          <li><a href="farm-machinery">Farm Machinery</a></li>
+          <li><a href="cattle-farming">Cattle Farming</a></li>
+          <li><a href="gold-trading">Gold Trading</a></li>
         </ul>
       </div>
       <div>
         <h4>Company</h4>
         <ul>
-          <li><a href="about.php">About</a></li>
+          <li><a href="about">About</a></li>
           <li><a href="#why">Why Us</a></li>
-          <li><a href="contact.php">Contact</a></li>
+          <li><a href="contact">Contact</a></li>
         </ul>
       </div>
       <div>

@@ -18,12 +18,12 @@
 <section class="inner-hero">
   <div class="wrap">
     <div>
-      <div class="breadcrumb"><a href="index.php">Home</a><span class="sep">/</span><span class="current">Division 02 — Farming</span></div>
+      <div class="breadcrumb"><a href="index">Home</a><span class="sep">/</span><span class="current">Division 02 — Farming</span></div>
       <div class="eyebrow">Division 02</div>
       <h1>From clearing to harvest, in one place.</h1>
       <p class="lead">Hand tools, irrigation equipment and machinery for farms across the Ashanti Region — stocked to match the planting calendar, not to sit on a shelf.</p>
       <div class="hero-cta">
-        <a href="contact.php" class="btn btn-solid">Enquire about equipment</a>
+        <a href="contact" class="btn btn-solid">Enquire about equipment</a>
         <a href="#offer" class="btn btn-ghost">See what we supply</a>
       </div>
     </div>
@@ -109,7 +109,7 @@
 <section class="cta-band">
   <div class="wrap">
     <h2>Planning a season? Let's stock it right.</h2>
-    <a href="contact.php" class="btn btn-ghost-dark">Enquire now</a>
+    <a href="contact" class="btn btn-ghost-dark">Enquire now</a>
   </div>
 </section>
 

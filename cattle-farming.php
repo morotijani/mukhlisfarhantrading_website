@@ -18,12 +18,12 @@
 <section class="inner-hero">
   <div class="wrap">
     <div>
-      <div class="breadcrumb"><a href="index.php">Home</a><span class="sep">/</span><span class="current">Division 03 — Cattle</span></div>
+      <div class="breadcrumb"><a href="index">Home</a><span class="sep">/</span><span class="current">Division 03 — Cattle</span></div>
       <div class="eyebrow">Division 03</div>
       <h1>Livestock raised with care, sold with honesty.</h1>
       <p class="lead">A managed herd on land near Konongo, with animals sold and bought on terms both sides understand before anything is agreed.</p>
       <div class="hero-cta">
-        <a href="contact.php" class="btn btn-solid">Enquire about cattle</a>
+        <a href="contact" class="btn btn-solid">Enquire about cattle</a>
         <a href="#offer" class="btn btn-ghost">See how it works</a>
       </div>
     </div>
@@ -109,7 +109,7 @@
 <section class="cta-band">
   <div class="wrap">
     <h2>Buying, selling, or just asking around? Talk to us.</h2>
-    <a href="contact.php" class="btn btn-ghost-dark">Enquire now</a>
+    <a href="contact" class="btn btn-ghost-dark">Enquire now</a>
   </div>
 </section>
 

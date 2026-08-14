@@ -18,12 +18,12 @@
 <section class="inner-hero">
   <div class="wrap">
     <div>
-      <div class="breadcrumb"><a href="index.php">Home</a><span class="sep">/</span><span class="current">Division 01 — Mining</span></div>
+      <div class="breadcrumb"><a href="index">Home</a><span class="sep">/</span><span class="current">Division 01 — Mining</span></div>
       <div class="eyebrow">Division 01</div>
       <h1>Equipment that holds up on-site.</h1>
       <p class="lead">Tools, machinery and consumables for small-scale and artisanal mining across Konongo and the wider Ashanti Region — sourced to work, not just to look right in a catalogue.</p>
       <div class="hero-cta">
-        <a href="contact.php" class="btn btn-solid">Enquire about equipment</a>
+        <a href="contact" class="btn btn-solid">Enquire about equipment</a>
         <a href="#offer" class="btn btn-ghost">See what we supply</a>
       </div>
     </div>
@@ -109,7 +109,7 @@
 <section class="cta-band">
   <div class="wrap">
     <h2>Outfitting a site? Let's talk through what it needs.</h2>
-    <a href="contact.php" class="btn btn-ghost-dark">Enquire now</a>
+    <a href="contact" class="btn btn-ghost-dark">Enquire now</a>
   </div>
 </section>
 

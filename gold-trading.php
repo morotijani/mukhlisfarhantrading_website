@@ -18,12 +18,12 @@
 <section class="inner-hero">
   <div class="wrap">
     <div>
-      <div class="breadcrumb"><a href="index.php">Home</a><span class="sep">/</span><span class="current">Division 04 — Gold</span></div>
+      <div class="breadcrumb"><a href="index">Home</a><span class="sep">/</span><span class="current">Division 04 — Gold</span></div>
       <div class="eyebrow">Division 04</div>
       <h1>Weighed, valued, and paid — in front of you.</h1>
       <p class="lead">Gold buying and selling built around one rule: nothing is agreed until the weight, the purity and the price have been shown and explained.</p>
       <div class="hero-cta">
-        <a href="contact.php" class="btn btn-solid">Bring your gold in</a>
+        <a href="contact" class="btn btn-solid">Bring your gold in</a>
         <a href="#offer" class="btn btn-ghost">See how it works</a>
       </div>
     </div>
@@ -97,7 +97,7 @@
           <div><b>Step 03 — Settle &amp; document</b><span>Payment is settled on the spot, and you leave with paperwork recording the whole transaction.</span></div>
         </div>
       </div>
-      <a href="contact.php" class="btn btn-solid">Bring your gold in</a>
+      <a href="contact" class="btn btn-solid">Bring your gold in</a>
     </div>
     <div class="scale-graphic reveal">
       <svg viewBox="0 0 480 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Illustration of a balance scale weighing gold">
@@ -128,7 +128,7 @@
 <section class="cta-band">
   <div class="wrap">
     <h2>Have gold to sell, or looking to buy? Come by the desk.</h2>
-    <a href="contact.php" class="btn btn-ghost-dark">Enquire now</a>
+    <a href="contact" class="btn btn-ghost-dark">Enquire now</a>
   </div>
 </section>
 

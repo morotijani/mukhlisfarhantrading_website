@@ -18,12 +18,12 @@
 <section class="inner-hero">
   <div class="wrap">
     <div>
-      <div class="breadcrumb"><a href="index.php">Home</a><span class="sep">/</span><span class="current">About</span></div>
+      <div class="breadcrumb"><a href="index">Home</a><span class="sep">/</span><span class="current">About</span></div>
       <div class="eyebrow">Konongo, Ashanti Region — Est. 2018</div>
       <h1>People before paperwork, trust before turnover.</h1>
       <p class="lead">Mukhlis Farhan Trading Limited was built on the idea that a trading house is only as good as the last deal it kept honest. Here's the story behind the four divisions.</p>
       <div class="hero-cta">
-        <a href="contact.php" class="btn btn-solid">Get in touch</a>
+        <a href="contact" class="btn btn-solid">Get in touch</a>
         <a href="#mission" class="btn btn-ghost">Our mission &amp; vision</a>
       </div>
     </div>
@@ -116,7 +116,7 @@
 <section class="cta-band">
   <div class="wrap">
     <h2>Want to know more about how we work? Ask us directly.</h2>
-    <a href="contact.php" class="btn btn-ghost-dark">Contact us</a>
+    <a href="contact" class="btn btn-ghost-dark">Contact us</a>
   </div>
 </section>
 

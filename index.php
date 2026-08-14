@@ -146,7 +146,7 @@
           <li>Safety gear &amp; consumables</li>
           <li>Site materials on order</li>
         </ul>
-        <a href="mining-equipment.php" class="division-link">View this division →</a>
+        <a href="mining-equipment" class="division-link">View this division →</a>
       </div>
 
       <div class="division">
@@ -162,7 +162,7 @@
           <li>Ploughs &amp; tillage equipment</li>
           <li>Seasonal input supply</li>
         </ul>
-        <a href="farm-machinery.php" class="division-link">View this division →</a>
+        <a href="farm-machinery" class="division-link">View this division →</a>
       </div>
 
       <div class="division">
@@ -178,7 +178,7 @@
           <li>Feed &amp; husbandry supplies</li>
           <li>Buying on request</li>
         </ul>
-        <a href="cattle-farming.php" class="division-link">View this division →</a>
+        <a href="cattle-farming" class="division-link">View this division →</a>
       </div>
 
       <div class="division">
@@ -194,7 +194,7 @@
           <li>Sale to registered buyers</li>
           <li>Documentation on every deal</li>
         </ul>
-        <a href="gold-trading.php" class="division-link">View this division →</a>
+        <a href="gold-trading" class="division-link">View this division →</a>
       </div>
 
     </div>
