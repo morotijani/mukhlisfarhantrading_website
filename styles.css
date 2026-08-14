@@ -281,6 +281,7 @@
   /* ---------- RESPONSIVE ---------- */
   @media (max-width:920px){
     nav.links{display:none;}
+    header .cta a.btn-ghost{display:none;}
     .menu-btn{display:block;}
     .hero .wrap{grid-template-columns:1fr;}
     .hero{padding-top:140px;}
