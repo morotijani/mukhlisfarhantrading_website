@@ -12,59 +12,18 @@
 </head>
 <body>
 
-<!-- ================= NAV ================= -->
-<header class="site" id="siteHeader">
-  <div class="wrap">
-    <a href="index.html" class="brand">
-      <div class="brand-mark">MFT</div>
-      <div class="brand-name">Mukhlis Farhan<span>Trading Limited</span></div>
-    </a>
-    <nav class="links">
-      <a href="about.html">About</a>
-      <div class="nav-item">
-        <a href="#">Trades <svg viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M2 4l4 4 4-4"/></svg></a>
-        <div class="dropdown">
-          <div class="dropdown-inner">
-            <a href="mining-equipment.html">Mining Equipment</a>
-            <a href="farm-machinery.html">Farm Machinery</a>
-            <a href="cattle-farming.html">Cattle Farming</a>
-            <a href="gold-trading.html">Gold Trading</a>
-          </div>
-        </div>
-      </div>
-      <a href="index.html#why">Why Us</a>
-      <a href="contact.html">Contact</a>
-    </nav>
-    <div class="cta">
-      <a href="contact.html" class="btn btn-ghost" style="padding:10px 20px;font-size:13px;">Get in touch</a>
-      <button class="menu-btn" id="menuBtn" aria-label="Toggle menu">
-        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
-      </button>
-    </div>
-  </div>
-  <div id="mobileMenu" style="display:none;background:var(--charcoal);border-top:1px solid var(--line);">
-    <div class="wrap" style="display:flex;flex-direction:column;gap:0;padding-top:6px;padding-bottom:18px;">
-      <a href="about.html" style="padding:12px 0;color:var(--cream);border-bottom:1px solid var(--line);">About</a>
-      <a href="mining-equipment.html" style="padding:12px 0;color:var(--cream);border-bottom:1px solid var(--line);">Mining Equipment</a>
-      <a href="farm-machinery.html" style="padding:12px 0;color:var(--cream);border-bottom:1px solid var(--line);">Farm Machinery</a>
-      <a href="cattle-farming.html" style="padding:12px 0;color:var(--cream);border-bottom:1px solid var(--line);">Cattle Farming</a>
-      <a href="gold-trading.html" style="padding:12px 0;color:var(--cream);border-bottom:1px solid var(--line);">Gold Trading</a>
-      <a href="index.html#why" style="padding:12px 0;color:var(--cream);border-bottom:1px solid var(--line);">Why Us</a>
-      <a href="contact.html" style="padding:12px 0;color:var(--cream);">Contact</a>
-    </div>
-  </div>
-</header>
+<?php include 'includes/header.php'; ?>
 
 <!-- ================= HERO ================= -->
 <section class="inner-hero">
   <div class="wrap">
     <div>
-      <div class="breadcrumb"><a href="index.html">Home</a><span class="sep">/</span><span class="current">Division 04 — Gold</span></div>
+      <div class="breadcrumb"><a href="index.php">Home</a><span class="sep">/</span><span class="current">Division 04 — Gold</span></div>
       <div class="eyebrow">Division 04</div>
       <h1>Weighed, valued, and paid — in front of you.</h1>
       <p class="lead">Gold buying and selling built around one rule: nothing is agreed until the weight, the purity and the price have been shown and explained.</p>
       <div class="hero-cta">
-        <a href="contact.html" class="btn btn-solid">Bring your gold in</a>
+        <a href="contact.php" class="btn btn-solid">Bring your gold in</a>
         <a href="#offer" class="btn btn-ghost">See how it works</a>
       </div>
     </div>
@@ -138,7 +97,7 @@
           <div><b>Step 03 — Settle &amp; document</b><span>Payment is settled on the spot, and you leave with paperwork recording the whole transaction.</span></div>
         </div>
       </div>
-      <a href="contact.html" class="btn btn-solid">Bring your gold in</a>
+      <a href="contact.php" class="btn btn-solid">Bring your gold in</a>
     </div>
     <div class="scale-graphic reveal">
       <svg viewBox="0 0 480 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Illustration of a balance scale weighing gold">
@@ -169,53 +128,11 @@
 <section class="cta-band">
   <div class="wrap">
     <h2>Have gold to sell, or looking to buy? Come by the desk.</h2>
-    <a href="contact.html" class="btn btn-ghost-dark">Enquire now</a>
+    <a href="contact.php" class="btn btn-ghost-dark">Enquire now</a>
   </div>
 </section>
 
-<!-- ================= FOOTER ================= -->
-<footer>
-  <div class="wrap">
-    <div class="top">
-      <div>
-        <div class="brand" style="margin-bottom:0;">
-          <div class="brand-mark">MFT</div>
-          <div class="brand-name">Mukhlis Farhan<span style="color:var(--cream-dim);">Trading Limited</span></div>
-        </div>
-        <p class="tagline">Mining equipment, farming machinery, cattle and gold — traded fairly from Konongo, Ghana, since 2018.</p>
-      </div>
-      <div>
-        <h4>Divisions</h4>
-        <ul>
-          <li><a href="mining-equipment.html">Mining Equipment</a></li>
-          <li><a href="farm-machinery.html">Farm Machinery</a></li>
-          <li><a href="cattle-farming.html">Cattle Farming</a></li>
-          <li><a href="gold-trading.html">Gold Trading</a></li>
-        </ul>
-      </div>
-      <div>
-        <h4>Company</h4>
-        <ul>
-          <li><a href="about.html">About</a></li>
-          <li><a href="index.html#why">Why Us</a></li>
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-      </div>
-      <div>
-        <h4>Visit</h4>
-        <ul>
-          <li>Konongo, Ashanti Region</li>
-          <li>Ghana</li>
-          <li><a href="tel:+233000000000">+233 00 000 0000</a></li>
-        </ul>
-      </div>
-    </div>
-    <div class="bottom-row">
-      <span>© <span id="year"></span> Mukhlis Farhan Trading Limited. All rights reserved.</span>
-      <span>Registered in Ghana · Konongo, Ashanti Region</span>
-    </div>
-  </div>
-</footer>
+<?php include 'includes/footer.php'; ?>
 
 <script src="main.js"></script>
 </body>

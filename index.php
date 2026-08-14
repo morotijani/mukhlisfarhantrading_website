@@ -12,48 +12,7 @@
 </head>
 <body>
 
-<!-- ================= NAV ================= -->
-<header class="site" id="siteHeader">
-  <div class="wrap">
-    <a href="index.html" class="brand">
-      <div class="brand-mark">MFT</div>
-      <div class="brand-name">Mukhlis Farhan<span>Trading Limited</span></div>
-    </a>
-    <nav class="links">
-      <a href="about.html">About</a>
-      <div class="nav-item">
-        <a href="#services">Trades <svg viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M2 4l4 4 4-4"/></svg></a>
-        <div class="dropdown">
-          <div class="dropdown-inner">
-            <a href="mining-equipment.html">Mining Equipment</a>
-            <a href="farm-machinery.html">Farm Machinery</a>
-            <a href="cattle-farming.html">Cattle Farming</a>
-            <a href="gold-trading.html">Gold Trading</a>
-          </div>
-        </div>
-      </div>
-      <a href="#why">Why Us</a>
-      <a href="contact.html">Contact</a>
-    </nav>
-    <div class="cta">
-      <a href="contact.html" class="btn btn-ghost" style="padding:10px 20px;font-size:13px;">Get in touch</a>
-      <button class="menu-btn" id="menuBtn" aria-label="Toggle menu">
-        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
-      </button>
-    </div>
-  </div>
-  <div id="mobileMenu" style="display:none;background:var(--charcoal);border-top:1px solid var(--line);">
-    <div class="wrap" style="display:flex;flex-direction:column;gap:0;padding-top:6px;padding-bottom:18px;">
-      <a href="about.html" style="padding:12px 0;color:var(--cream);border-bottom:1px solid var(--line);">About</a>
-      <a href="mining-equipment.html" style="padding:12px 0;color:var(--cream);border-bottom:1px solid var(--line);">Mining Equipment</a>
-      <a href="farm-machinery.html" style="padding:12px 0;color:var(--cream);border-bottom:1px solid var(--line);">Farm Machinery</a>
-      <a href="cattle-farming.html" style="padding:12px 0;color:var(--cream);border-bottom:1px solid var(--line);">Cattle Farming</a>
-      <a href="gold-trading.html" style="padding:12px 0;color:var(--cream);border-bottom:1px solid var(--line);">Gold Trading</a>
-      <a href="#why" style="padding:12px 0;color:var(--cream);border-bottom:1px solid var(--line);">Why Us</a>
-      <a href="contact.html" style="padding:12px 0;color:var(--cream);">Contact</a>
-    </div>
-  </div>
-</header>
+<?php include 'includes/header.php'; ?>
 
 <!-- ================= HERO ================= -->
 <section class="hero" id="top">
@@ -187,7 +146,7 @@
           <li>Safety gear &amp; consumables</li>
           <li>Site materials on order</li>
         </ul>
-        <a href="mining-equipment.html" class="division-link">View this division →</a>
+        <a href="mining-equipment.php" class="division-link">View this division →</a>
       </div>
 
       <div class="division">
@@ -203,7 +162,7 @@
           <li>Ploughs &amp; tillage equipment</li>
           <li>Seasonal input supply</li>
         </ul>
-        <a href="farm-machinery.html" class="division-link">View this division →</a>
+        <a href="farm-machinery.php" class="division-link">View this division →</a>
       </div>
 
       <div class="division">
@@ -219,7 +178,7 @@
           <li>Feed &amp; husbandry supplies</li>
           <li>Buying on request</li>
         </ul>
-        <a href="cattle-farming.html" class="division-link">View this division →</a>
+        <a href="cattle-farming.php" class="division-link">View this division →</a>
       </div>
 
       <div class="division">
@@ -235,7 +194,7 @@
           <li>Sale to registered buyers</li>
           <li>Documentation on every deal</li>
         </ul>
-        <a href="gold-trading.html" class="division-link">View this division →</a>
+        <a href="gold-trading.php" class="division-link">View this division →</a>
       </div>
 
     </div>
@@ -379,49 +338,7 @@
   </div>
 </section>
 
-<!-- ================= FOOTER ================= -->
-<footer>
-  <div class="wrap">
-    <div class="top">
-      <div>
-        <div class="brand" style="margin-bottom:0;">
-          <div class="brand-mark">MFT</div>
-          <div class="brand-name">Mukhlis Farhan<span style="color:var(--cream-dim);">Trading Limited</span></div>
-        </div>
-        <p class="tagline">Mining equipment, farming machinery, cattle and gold — traded fairly from Konongo, Ghana, since 2018.</p>
-      </div>
-      <div>
-        <h4>Divisions</h4>
-        <ul>
-          <li><a href="mining-equipment.html">Mining Equipment</a></li>
-          <li><a href="farm-machinery.html">Farm Machinery</a></li>
-          <li><a href="cattle-farming.html">Cattle Farming</a></li>
-          <li><a href="gold-trading.html">Gold Trading</a></li>
-        </ul>
-      </div>
-      <div>
-        <h4>Company</h4>
-        <ul>
-          <li><a href="about.html">About</a></li>
-          <li><a href="#why">Why Us</a></li>
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-      </div>
-      <div>
-        <h4>Visit</h4>
-        <ul>
-          <li>Konongo, Ashanti Region</li>
-          <li>Ghana</li>
-          <li><a href="tel:+233000000000">+233 00 000 0000</a></li>
-        </ul>
-      </div>
-    </div>
-    <div class="bottom-row">
-      <span>© <span id="year"></span> Mukhlis Farhan Trading Limited. All rights reserved.</span>
-      <span>Registered in Ghana · Konongo, Ashanti Region</span>
-    </div>
-  </div>
-</footer>
+<?php include 'includes/footer.php'; ?>
 
 <script src="main.js"></script>
 </body>
