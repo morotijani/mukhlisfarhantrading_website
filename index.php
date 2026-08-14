@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mukhlis Farhan Trading Limited — Konongo, Ghana</title>
-<meta name="description" content="Mukhlis Farhan Trading Limited: mining equipment, farming machinery, cattle farming and gold trading, based in Konongo, Ashanti Region, Ghana since 2018.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,450;9..144,560;9..144,650&family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css">
+<?php
+$page_title = "Mukhlis Farhan Trading Limited — Konongo, Ghana";
+$page_description = "Mukhlis Farhan Trading Limited: mining equipment, farming machinery, cattle farming and gold trading, based in Konongo, Ashanti Region, Ghana since 2018.";
+$page_slug = "";
+include 'includes/head.php';
+?>
 </head>
 <body>
 

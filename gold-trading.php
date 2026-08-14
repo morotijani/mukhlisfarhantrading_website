@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Gold Buying & Selling — Mukhlis Farhan Trading Limited</title>
-<meta name="description" content="Fair, transparent gold buying and selling in Konongo, Ashanti Region, Ghana — evaluation, purchase and sale with documentation on every deal.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,450;9..144,560;9..144,650&family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css">
+<?php
+$page_title = "Gold Buying & Selling — Mukhlis Farhan Trading Limited";
+$page_description = "Fair, transparent gold buying and selling in Konongo, Ashanti Region, Ghana — evaluation, purchase and sale with documentation on every deal.";
+$page_slug = "gold-trading";
+include 'includes/head.php';
+?>
 </head>
 <body>
 

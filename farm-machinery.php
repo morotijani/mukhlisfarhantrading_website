@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Farming Equipment & Machinery — Mukhlis Farhan Trading Limited</title>
-<meta name="description" content="Farming equipment and machinery — hand tools, irrigation, ploughs and seasonal inputs — from Mukhlis Farhan Trading Limited, Konongo, Ghana.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,450;9..144,560;9..144,650&family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css">
+<?php
+$page_title = "Farming Equipment & Machinery — Mukhlis Farhan Trading Limited";
+$page_description = "Farming equipment and machinery — hand tools, irrigation, ploughs and seasonal inputs — from Mukhlis Farhan Trading Limited, Konongo, Ghana.";
+$page_slug = "farm-machinery";
+include 'includes/head.php';
+?>
 </head>
 <body>
 
