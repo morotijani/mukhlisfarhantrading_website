@@ -1,3 +1,32 @@
+<?php
+$status = '';
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $fname = strip_tags(trim($_POST["fname"] ?? ''));
+    $fphone = strip_tags(trim($_POST["fphone"] ?? ''));
+    $femail = filter_var(trim($_POST["femail"] ?? ''), FILTER_SANITIZE_EMAIL);
+    $fdiv = strip_tags(trim($_POST["fdiv"] ?? ''));
+    $fmsg = strip_tags(trim($_POST["fmsg"] ?? ''));
+
+    if (empty($fname) || empty($fphone) || empty($femail) || empty($fmsg)) {
+        $status = '<div style="color:#842029;background:#f8d7da;padding:12px 16px;border-radius:4px;margin-bottom:20px;">Please fill in all required fields.</div>';
+    } elseif (!filter_var($femail, FILTER_VALIDATE_EMAIL)) {
+        $status = '<div style="color:#842029;background:#f8d7da;padding:12px 16px;border-radius:4px;margin-bottom:20px;">Please provide a valid email address.</div>';
+    } else {
+        $to = "info@mukhlisfarhantrading.com";
+        $subject = "New Enquiry: " . $fdiv;
+        $body = "Name: $fname\nPhone: $fphone\nEmail: $femail\nTrade Concern: $fdiv\n\nMessage:\n$fmsg";
+        $headers = "From: noreply@mukhlisfarhantrading.com\r\n";
+        $headers .= "Reply-To: $femail\r\n";
+
+        // The @ operator suppresses the local XAMPP warning so the page layout doesn't break
+        if (@mail($to, $subject, $body, $headers)) {
+            $status = '<div style="color:#0f5132;background:#d1e7dd;padding:12px 16px;border-radius:4px;margin-bottom:20px;">Thank you! Your message has been sent successfully.</div>';
+        } else {
+            $status = '<div style="color:#842029;background:#f8d7da;padding:12px 16px;border-radius:4px;margin-bottom:20px;">Oops! Something went wrong, and we couldn\'t send your message.</div>';
+        }
+    }
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -52,13 +81,13 @@ include 'includes/head.php';
         <span class="label">Opening hours</span>
         <p>Monday – Saturday, 7:00am – 6:00pm<br>Sunday: Gold desk by appointment</p>
       </div>
-
       <iframe class="map-embed reveal" style="margin-top:10px;" loading="lazy"
         src="https://maps.google.com/maps?q=Konongo,+Ashanti+Region,+Ghana&z=12&output=embed"
         title="Map showing Konongo, Ashanti Region, Ghana"></iframe>
     </div>
 
-    <form class="enquire reveal" id="enquireForm">
+    <form class="enquire reveal" id="enquireForm" method="POST" action="contact.php">
+      <?php if (!empty($status)) echo $status; ?>
       <div class="row">
         <div>
           <label for="fname">Full name</label>
@@ -68,6 +97,10 @@ include 'includes/head.php';
           <label for="fphone">Phone number</label>
           <input id="fphone" name="fphone" type="tel" required>
         </div>
+      </div>
+      <div class="full">
+        <label for="femail">Email address</label>
+        <input id="femail" name="femail" type="email" required>
       </div>
       <div class="full">
         <label for="fdiv">Which trade concerns you?</label>
@@ -85,7 +118,6 @@ include 'includes/head.php';
       </div>
       <div class="submit-row">
         <button type="submit" class="btn btn-solid">Send enquiry</button>
-        <span class="form-note">Opens your email app, addressed to our office.</span>
       </div>
     </form>
   </div>
@@ -93,6 +125,6 @@ include 'includes/head.php';
 
 <?php include 'includes/footer.php'; ?>
 
-<script src="main.js"></script>
+<script src="main.js?v=2"></script>
 </body>
 </html>

@@ -370,7 +370,7 @@
 
   <?php include 'includes/footer.php'; ?>
 
-  <script src="main.js"></script>
+  <script src="main.js?v=2"></script>
 </body>
 
 </html>

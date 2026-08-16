@@ -36,16 +36,4 @@ if (revealEls.length) {
 const yearEl = document.getElementById('year');
 if (yearEl) yearEl.textContent = new Date().getFullYear();
 
-// contact form -> mailto
-const enquireForm = document.getElementById('enquireForm');
-if (enquireForm) {
-  enquireForm.addEventListener('submit', function (e) {
-    e.preventDefault();
-    const name = document.getElementById('fname').value;
-    const phone = document.getElementById('fphone').value;
-    const div = document.getElementById('fdiv').value;
-    const msg = document.getElementById('fmsg').value;
-    const body = `Name: ${name}%0APhone: ${phone}%0ADivision: ${div}%0A%0AMessage:%0A${encodeURIComponent(msg)}`;
-    window.location.href = `mailto:info@mukhlisfarhantrading.com?subject=Enquiry from website — ${encodeURIComponent(div)}&body=${body}`;
-  });
-}
+// Form handling is now done server-side via PHP.
