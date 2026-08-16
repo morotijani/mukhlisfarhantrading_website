@@ -30,7 +30,7 @@
 				</div>
 			</div>
 			<div class="duo-photo">
-				<img src="g-22.jpg" alt="Tractor ploughing a field under a bright sky" loading="lazy">
+				<img src="assets/images/g-22.jpg" alt="Tractor ploughing a field under a bright sky" loading="lazy">
 				<div class="tag"><span>Field-ready equipment</span><span>Div. 02</span></div>
 			</div>
 		</div>
@@ -133,7 +133,7 @@
 
 	<?php include 'includes/footer.php'; ?>
 
-	<script src="main.js?v=2"></script>
+	<script src="assets/js/main.js"></script>
 </body>
 
 </html>

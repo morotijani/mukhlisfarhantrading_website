@@ -30,7 +30,7 @@
                 </div>
             </div>
             <div class="duo-photo">
-                <img src="g-4.jpg" alt="Gold bars on a dark surface" loading="lazy">
+                <img src="assets/images/g-4.jpg" alt="Gold bars on a dark surface" loading="lazy">
                 <div class="tag"><span>Verified weight &amp; purity</span><span>Div. 04</span></div>
             </div>
         </div>
@@ -167,7 +167,7 @@
 
         <?php include 'includes/footer.php'; ?>
 
-    <script src="main.js?v=2"></script>
+    <script src="assets/js/main.js"></script>
 </body>
 
 </html>

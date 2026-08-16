@@ -7,13 +7,13 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="<?php echo isset($page_title) ? htmlspecialchars($page_title) : 'Mukhlis Farhan Trading Limited'; ?>">
 <meta property="og:description" content="<?php echo isset($page_description) ? htmlspecialchars($page_description) : ''; ?>">
-<meta property="og:image" content="company-banner.jpeg">
+<meta property="og:image" content="assets/images/company-banner.jpeg">
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:title" content="<?php echo isset($page_title) ? htmlspecialchars($page_title) : 'Mukhlis Farhan Trading Limited'; ?>">
 <meta property="twitter:description" content="<?php echo isset($page_description) ? htmlspecialchars($page_description) : ''; ?>">
-<meta property="twitter:image" content="company-banner.jpeg">
+<meta property="twitter:image" content="assets/images/company-banner.jpeg">
 
 <!-- Canonical URL -->
 <link rel="canonical" href="https://mukhlisfarhantrading.com/<?php echo isset($page_slug) ? $page_slug : ''; ?>">
@@ -21,7 +21,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,450;9..144,560;9..144,650&family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="assets/css/styles.css">
 
 <!-- JSON-LD LocalBusiness Schema -->
 <script type="application/ld+json">

@@ -30,7 +30,7 @@
 				</div>
 			</div>
 			<div class="duo-photo">
-				<img src="cattle.jpg" alt="Cattle grazing on a green pasture" loading="lazy">
+				<img src="assets/images/cattle.jpg" alt="Cattle grazing on a green pasture" loading="lazy">
 				<div class="tag"><span>Managed pasture, Konongo</span><span>Div. 03</span></div>
 			</div>
 		</div>
@@ -136,7 +136,7 @@
 
 	<?php include 'includes/footer.php'; ?>
 
-	<script src="main.js?v=2"></script>
+	<script src="assets/js/main.js"></script>
 </body>
 
 </html>

@@ -3,7 +3,7 @@
 	<div class="wrap">
 		<a href="index" class="brand">
 			<!-- <div class="brand-mark">MFT</div> -->
-			<img src="logo.PNG" alt="Logo" class="brand-mark">
+			<img src="assets/images/logo.PNG" alt="Logo" class="brand-mark">
 			<div class="brand-name">Mukhlis Farhan<span>Trading Limited</span></div>
 		</a>
 		<nav class="links">

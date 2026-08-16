@@ -30,7 +30,7 @@
         </div>
       </div>
       <div class="duo-photo">
-        <img src="about-us.jpg" alt="Business partners shaking hands over a deal" loading="lazy">
+        <img src="assets/images/about-us.jpg" alt="Business partners shaking hands over a deal" loading="lazy">
         <div class="tag"><span>Built on the handshake</span><span>Since 2018</span></div>
       </div>
     </div>
@@ -150,7 +150,7 @@
 
     <?php include 'includes/footer.php'; ?>
 
-  <script src="main.js?v=2"></script>
+  <script src="assets/js/main.js"></script>
 </body>
 
 </html>

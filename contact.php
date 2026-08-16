@@ -125,6 +125,6 @@ include 'includes/head.php';
 
 <?php include 'includes/footer.php'; ?>
 
-<script src="main.js?v=2"></script>
+<script src="assets/js/main.js"></script>
 </body>
 </html>

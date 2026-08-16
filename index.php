@@ -351,10 +351,10 @@
         <h2>A look at our trades in action.</h2>
       </div>
       <div class="gallery-grid reveal">
-        <div class="gallery-item"><img src="g-1.png" alt="Mining Equipment"><span>Mining</span></div>
-        <div class="gallery-item"><img src="g-22.jpg" alt="Farm Machinery"><span>Farming</span></div>
-        <div class="gallery-item"><img src="g-3.jpg" alt="Cattle Farming"><span>Cattle</span></div>
-        <div class="gallery-item"><img src="g-44.png" alt="Gold Trading"><span>Gold</span></div>
+        <div class="gallery-item"><img src="assets/images/g-1.png" alt="Mining Equipment"><span>Mining</span></div>
+        <div class="gallery-item"><img src="assets/images/g-22.jpg" alt="Farm Machinery"><span>Farming</span></div>
+        <div class="gallery-item"><img src="assets/images/g-3.jpg" alt="Cattle Farming"><span>Cattle</span></div>
+        <div class="gallery-item"><img src="assets/images/g-44.png" alt="Gold Trading"><span>Gold</span></div>
       </div>
     </div>
   </section>
@@ -370,7 +370,7 @@
 
   <?php include 'includes/footer.php'; ?>
 
-  <script src="main.js?v=2"></script>
+  <script src="assets/js/main.js"></script>
 </body>
 
 </html>

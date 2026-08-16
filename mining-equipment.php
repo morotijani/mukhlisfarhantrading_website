@@ -30,7 +30,7 @@
                 </div>
             </div>
             <div class="duo-photo">
-                <img src="g-22.png" alt="Mining excavation equipment at work underground" loading="lazy">
+                <img src="assets/images/g-22.png" alt="Mining excavation equipment at work underground" loading="lazy">
                 <div class="tag"><span>Konongo site work</span><span>Div. 01</span></div>
             </div>
         </div>
@@ -136,7 +136,7 @@
 
     <?php include 'includes/footer.php'; ?>
 
-    <script src="main.js?v=2"></script>
+    <script src="assets/js/main.js"></script>
 </body>
 
 </html>

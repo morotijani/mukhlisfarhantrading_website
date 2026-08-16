@@ -5,7 +5,7 @@
             <div>
                 <div class="brand" style="margin-bottom:0;">
                     <!-- <div class="brand-mark">MFT</div> -->
-                    <img src="logo.PNG" alt="Logo" class="brand-mark">
+                    <img src="assets/images/logo.PNG" alt="Logo" class="brand-mark">
                     <div class="brand-name">Mukhlis Farhan<span style="color:var(--cream-dim);">Trading Limited</span>
                     </div>
                 </div>
