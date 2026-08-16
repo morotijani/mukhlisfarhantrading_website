@@ -9,7 +9,7 @@
 		<nav class="links">
 			<a href="about">About</a>
 			<div class="nav-item">
-				<a href="#services">Trades <svg viewBox="0 0 12 12" fill="none" stroke="currentColor"
+				<a href="index#services">Trades <svg viewBox="0 0 12 12" fill="none" stroke="currentColor"
 						stroke-width="1.6">
 						<path d="M2 4l4 4 4-4" />
 					</svg></a>
@@ -22,7 +22,7 @@
 					</div>
 				</div>
 			</div>
-			<a href="#why">Why Us</a>
+			<a href="index#why">Why Us</a>
 			<a href="contact">Contact</a>
 		</nav>
 		<div class="cta">
@@ -45,7 +45,7 @@
 				style="padding:12px 0;color:var(--cream);border-bottom:1px solid var(--line);">Cattle Farming</a>
 			<a href="gold-trading" style="padding:12px 0;color:var(--cream);border-bottom:1px solid var(--line);">Gold
 				Trading</a>
-			<a href="#why" style="padding:12px 0;color:var(--cream);border-bottom:1px solid var(--line);">Why Us</a>
+			<a href="index#why" style="padding:12px 0;color:var(--cream);border-bottom:1px solid var(--line);">Why Us</a>
 			<a href="contact" style="padding:12px 0;color:var(--cream);">Contact</a>
 		</div>
 	</div>
