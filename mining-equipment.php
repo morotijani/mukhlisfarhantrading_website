@@ -20,7 +20,7 @@
             <div>
                 <div class="breadcrumb"><a href="index">Home</a><span class="sep">/</span><span class="current">Division
                         01 — Mining</span></div>
-                <div class="eyebrow">Division 01</div>
+                <div class="eyebrow">Division 01 — Est. 2024</div>
                 <h1>Equipment that holds up on-site.</h1>
                 <p class="lead">Tools, machinery and consumables for small-scale and artisanal mining across Konongo and
                     the wider Ashanti Region — sourced to work, not just to look right in a catalogue.</p>
@@ -122,6 +122,21 @@
                     <h3>Collect or delivery</h3>
                     <p>Pick up from our Konongo yard, or arrange delivery to site within the region.</p>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ================= EXPANSION & VISION ================= -->
+    <section class="content" style="padding-top:20px; padding-bottom:90px;">
+        <div class="wrap" style="border-top: 1px solid var(--line); padding-top: 60px;">
+            <div class="reveal">
+                <div class="eyebrow" style="color:var(--gold-bright);">Looking Ahead</div>
+                <h2>Expanding our supply lines.</h2>
+                <p class="content-lead">Direct imports and a broader trading vision.</p>
+            </div>
+            <div class="content-body reveal">
+                <p>While we already supply essential mining equipment locally—such as Parsun pumps, oil seal pump machines, complete gaskets, and heavy-duty water hoses—we are actively scaling up our operations. We are establishing direct import channels with international manufacturing hubs, including China, to bring in world-class machinery directly to Ghana.</p>
+                <p>To support this massive step up in inventory, we have acquired dedicated land and are preparing to construct a large-scale warehouse facility. But our vision doesn't stop at mining and agriculture; our long-term mission is to expand our trading operations to include high-quality building materials, electronics, and home appliances, positioning Mukhlis Farhan Trading Limited as a central pillar of regional commerce.</p>
             </div>
         </div>
     </section>

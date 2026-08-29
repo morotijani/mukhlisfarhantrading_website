@@ -20,7 +20,7 @@
 			<div>
 				<div class="breadcrumb"><a href="index">Home</a><span class="sep">/</span><span class="current">Division
 						03 — Cattle</span></div>
-				<div class="eyebrow">Division 03</div>
+				<div class="eyebrow">Division 03 — Est. 2023</div>
 				<h1>Livestock raised with care, sold with honesty.</h1>
 				<p class="lead">A managed herd on land near Konongo, with animals sold and bought on terms both sides
 					understand before anything is agreed.</p>
@@ -49,6 +49,7 @@
 					to spot a problem before it becomes one. That's the standard we hold our operation to, and it's why
 					buyers who've worked with us once tend to come back when they're ready to expand a herd or restock.
 				</p>
+				<p>Our active cattle farm is currently managed through traditional free-range grazing, with experienced herdsmen guiding the cattle to feed daily and returning them safely each evening. Looking to the future, we have acquired dedicated land and are in the planning stages of constructing modern housing facilities. These upcoming structures will allow us to transition to an integrated feeding system, ensuring optimal nutrition and care.</p>
 				<p>Whether you're buying your first few head, expanding an existing herd, or looking to sell cattle
 					you've raised, we deal directly and explain condition, weight and price plainly before any money
 					changes hands.</p>

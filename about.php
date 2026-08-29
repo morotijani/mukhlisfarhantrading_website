@@ -4,7 +4,7 @@
 <head>
   <?php
   $page_title = "About Us — Mukhlis Farhan Trading Limited";
-  $page_description = "Mukhlis Farhan Trading Limited was established in 2018 in Konongo, Ashanti Region, Ghana. Learn our story, mission and vision.";
+  $page_description = "Mukhlis Farhan Trading Limited was established in 2022 and registered in 2025 in Konongo, Ashanti Region, Ghana. Learn our story, mission and vision.";
   $page_slug = "about";
   include 'includes/head.php';
   ?>
@@ -20,7 +20,7 @@
       <div>
         <div class="breadcrumb"><a href="index">Home</a><span class="sep">/</span><span class="current">About</span>
         </div>
-        <div class="eyebrow">Konongo, Ashanti Region — Est. 2018</div>
+        <div class="eyebrow">Konongo, Ashanti Region — Est. 2022</div>
         <h1>People before paperwork, trust before turnover.</h1>
         <p class="lead">Mukhlis Farhan Trading Limited was built on the idea that a trading house is only as good as the
           last deal it kept honest. Here's the story behind the four divisions.</p>
@@ -31,7 +31,7 @@
       </div>
       <div class="duo-photo">
         <img src="assets/images/about-us.jpg" alt="Business partners shaking hands over a deal" loading="lazy">
-        <div class="tag"><span>Built on the handshake</span><span>Since 2018</span></div>
+        <div class="tag"><span>Built on the handshake</span><span>Since 2022</span></div>
       </div>
     </div>
   </section>
@@ -45,7 +45,7 @@
         <p class="content-lead">Built in the Ashanti goldfields, run on trust.</p>
       </div>
       <div class="content-body reveal">
-        <p>Mukhlis Farhan Trading Limited was established in 2018 in Konongo, in the heart of Ghana's Ashanti Region — a
+        <p>Mukhlis Farhan Trading Limited was established in 2022 and officially registered in 2025 in Konongo, in the heart of Ghana's Ashanti Region — a
           town shaped by generations of mining and farming. That inheritance is the reason the business trades in four
           directions at once: equipment for the pits and quarries, machinery for the farm, cattle raised and sold with
           care, and gold bought and weighed with an honest scale.</p>
@@ -56,7 +56,7 @@
         <p>We're a Ghanaian-owned business, and we intend to stay one — rooted in Konongo, answerable to the communities
           we trade with, and built for the long relationship rather than the single sale.</p>
         <div class="about-figures">
-          <div><b>2018</b><span>Year established</span></div>
+          <div><b>2022</b><span>Established (Reg. 2025)</span></div>
           <div><b>Konongo</b><span>Head office</span></div>
           <div><b>04</b><span>Trading divisions</span></div>
           <div><b>Ashanti</b><span>Region &amp; beyond</span></div>

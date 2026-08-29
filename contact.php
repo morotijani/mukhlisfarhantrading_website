@@ -77,7 +77,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 				</div>
 				<div class="contact-block">
 					<span class="label">Phone / WhatsApp</span>
-					<a href="tel:+233000000000">+233 00 000 0000</a>
+					<a href="tel:+233554001608">+233 55 400 1608</a>
 				</div>
 				<div class="contact-block">
 					<span class="label">Email</span>

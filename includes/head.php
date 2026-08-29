@@ -4,7 +4,7 @@
 	<?php echo isset($page_title) ? htmlspecialchars($page_title) : 'Mukhlis Farhan Trading Limited — Konongo, Ghana'; ?>
 </title>
 <meta name="description"
-	content="<?php echo isset($page_description) ? htmlspecialchars($page_description) : 'Mukhlis Farhan Trading Limited: mining equipment, farming machinery, cattle farming and gold trading, based in Konongo, Ashanti Region, Ghana since 2018.'; ?>">
+	content="<?php echo isset($page_description) ? htmlspecialchars($page_description) : 'Mukhlis Farhan Trading Limited: mining equipment, farming machinery, cattle farming and gold trading, based in Konongo, Ashanti Region, Ghana since 2022.'; ?>">
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
@@ -47,6 +47,6 @@
 	"addressRegion": "Ashanti Region",
 	"addressCountry": "GH"
   },
-  "foundingDate": "2018"
+  "foundingDate": "2022"
 }
 </script>

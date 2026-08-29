@@ -20,7 +20,7 @@
             <div>
                 <div class="breadcrumb"><a href="index">Home</a><span class="sep">/</span><span class="current">Division
                         04 — Gold</span></div>
-                <div class="eyebrow">Division 04</div>
+                <div class="eyebrow">Division 04 — Est. 2024</div>
                 <h1>Weighed, valued, and paid — in front of you.</h1>
                 <p class="lead">Gold buying and selling built around one rule: nothing is agreed until the weight, the
                     purity and the price have been shown and explained.</p>
@@ -52,6 +52,10 @@
                 <p>We buy from small-scale miners, individuals and other sellers, and we sell to registered buyers.
                     Whichever side of the counter you're on, you leave with paperwork that records exactly what happened
                     — weight, purity, price and date.</p>
+                <div style="margin-top:24px;padding:18px 24px;background:rgba(198,154,62,0.1);border-left:4px solid var(--gold-bright);border-radius:0 4px 4px 0;color:var(--text);">
+                    <strong style="display:block;margin-bottom:4px;color:var(--gold-bright);">Licensed Tier-2 Buyers</strong>
+                    We operate strictly under the laws and regulations of the Ghana Minerals Commission, ensuring all gold trading is fully compliant, transparent, and secure.
+                </div>
             </div>
         </div>
     </section>

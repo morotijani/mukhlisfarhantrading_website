@@ -4,7 +4,7 @@
 <head>
   <?php
   $page_title = "Mukhlis Farhan Trading Limited — Konongo, Ghana";
-  $page_description = "Mukhlis Farhan Trading Limited: mining equipment, farming machinery, cattle farming and gold trading, based in Konongo, Ashanti Region, Ghana since 2018.";
+  $page_description = "Mukhlis Farhan Trading Limited: mining equipment, farming machinery, cattle farming and gold trading, based in Konongo, Ashanti Region, Ghana since 2022.";
   $page_slug = "";
   include 'includes/head.php';
   ?>
@@ -18,7 +18,7 @@
   <section class="hero" id="top">
     <div class="wrap">
       <div>
-        <div class="eyebrow">Konongo, Ashanti Region — Est. 2018</div>
+        <div class="eyebrow">Konongo, Ashanti Region — Est. 2022</div>
         <h1>What comes from<br>the ground, <em>we trade&nbsp;honestly.</em></h1>
         <p class="hero-sub">Mukhlis Farhan Trading Limited moves between four trades rooted in Ghanaian soil and rock —
           mining equipment, farm machinery, cattle, and gold — with the same standard of fair dealing in each.</p>
@@ -27,7 +27,7 @@
           <a href="#contact" class="btn btn-ghost">Visit us in Konongo</a>
         </div>
         <div class="hero-stats">
-          <div><b>2018</b><span>Founded</span></div>
+          <div><b>2022</b><span>Established (Reg. 2025)</span></div>
           <div><b>04</b><span>Divisions</span></div>
           <div><b>Ashanti</b><span>Region Base</span></div>
           <div><b>100%</b><span>Ghanaian owned</span></div>
@@ -119,7 +119,7 @@
         <p class="about-lead">Built in the Ashanti goldfields, run on trust.</p>
       </div>
       <div class="about-body reveal">
-        <p>Mukhlis Farhan Trading Limited was established in 2018 in Konongo, in the heart of Ghana's Ashanti Region — a
+        <p>Mukhlis Farhan Trading Limited was established in 2022 and officially registered in 2025 in Konongo, in the heart of Ghana's Ashanti Region — a
           town shaped by generations of mining and farming. That inheritance is the reason the business trades in four
           directions at once: equipment for the pits and quarries, machinery for the farm, cattle raised and sold with
           care, and gold bought and weighed with an honest scale.</p>
@@ -128,7 +128,7 @@
           planting season, expanding a herd, or bringing gold to be valued, they deal with the same people, the same
           standards, and the same word kept.</p>
         <div class="about-figures">
-          <div><b>2018</b><span>Year established</span></div>
+          <div><b>2022</b><span>Established (Reg. 2025)</span></div>
           <div><b>Konongo</b><span>Head office</span></div>
           <div><b>04</b><span>Trading divisions</span></div>
           <div><b>Ashanti</b><span>Region &amp; beyond</span></div>

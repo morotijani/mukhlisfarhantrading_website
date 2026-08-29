@@ -10,7 +10,7 @@
                     </div>
                 </div>
                 <p class="tagline">Mining equipment, farming machinery, cattle and gold — traded fairly from Konongo,
-                    Ghana, since 2018.</p>
+                    Ghana, since 2022.</p>
             </div>
             <div>
                 <h4>Divisions</h4>
@@ -34,7 +34,7 @@
                 <ul>
                     <li>Konongo, Ashanti Region</li>
                     <li>Ghana</li>
-                    <li><a href="tel:+233000000000">+233 00 000 0000</a></li>
+                    <li><a href="tel:+233554001608" style="color:var(--cream-dim);"></a>+233 55 400 1608</a></li>
                 </ul>
             </div>
         </div>
