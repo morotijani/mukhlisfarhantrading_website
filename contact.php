@@ -33,7 +33,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <head>
 	<?php
 	$page_title = "Contact Us — Mukhlis Farhan Trading Limited";
-	$page_description = "Contact Mukhlis Farhan Trading Limited in Konongo, Ashanti Region, Ghana — mining equipment, farm machinery, cattle and gold trading enquiries.";
+	$page_description = "Contact Mukhlis Farhan Trading Limited in Konongo-Odumase, Ashanti Region, Ghana — mining equipment, farm machinery, cattle and gold trading enquiries.";
 	$page_slug = "contact";
 	include 'includes/head.php';
 	?>
@@ -51,7 +51,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 			<div class="eyebrow">Get in touch</div>
 			<h1 style="font-size:clamp(2.4rem,4.6vw,3.6rem);color:var(--cream);margin:18px 0 20px;max-width:16ch;">Come
 				by, call, or write in.</h1>
-			<p style="color:var(--cream-dim);font-size:16.5px;max-width:52ch;">The office is in Konongo, but every
+			<p style="color:var(--cream-dim);font-size:16.5px;max-width:52ch;">The office is in Konongo-Odumase, but
+				every
 				division can be reached directly. Tell us what you need and which trade it concerns, and we'll get back
 				to you.</p>
 
@@ -73,7 +74,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 				<div class="contact-block" style="margin-top:30px;">
 					<span class="label">Head office</span>
-					<p>Mukhlis Farhan Trading Limited<br>Konongo, Ashanti Region, Ghana</p>
+					<p>Mukhlis Farhan Trading Limited<br>Konongo-Odumase, Ashanti Region, Ghana</p>
 				</div>
 				<div class="contact-block">
 					<span class="label">Phone / WhatsApp</span>
@@ -89,7 +90,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 				</div>
 				<iframe class="map-embed reveal" style="margin-top:10px;" loading="lazy"
 					src="https://maps.google.com/maps?q=Konongo,+Ashanti+Region,+Ghana&z=12&output=embed"
-					title="Map showing Konongo, Ashanti Region, Ghana"></iframe>
+					title="Map showing Konongo-Odumase, Ashanti Region, Ghana"></iframe>
 			</div>
 
 			<form class="enquire reveal" id="enquireForm" method="POST" action="contact.php">

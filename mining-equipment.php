@@ -4,7 +4,7 @@
 <head>
     <?php
     $page_title = "Mining Equipment, Tools & Materials — Mukhlis Farhan Trading Limited";
-    $page_description = "Mining equipment, tools and materials for small-scale and artisanal mining sites in Konongo and across the Ashanti Region, Ghana.";
+    $page_description = "Mining equipment, tools and materials for small-scale and artisanal mining sites in Konongo-Odumase and across the Ashanti Region, Ghana.";
     $page_slug = "mining-equipment";
     include 'includes/head.php';
     ?>
@@ -22,7 +22,8 @@
                         01 — Mining</span></div>
                 <div class="eyebrow">Division 01 — Est. 2024</div>
                 <h1>Equipment that holds up on-site.</h1>
-                <p class="lead">Tools, machinery and consumables for small-scale and artisanal mining across Konongo and
+                <p class="lead">Tools, machinery and consumables for small-scale and artisanal mining across
+                    Konongo-Odumase and
                     the wider Ashanti Region — sourced to work, not just to look right in a catalogue.</p>
                 <div class="hero-cta">
                     <a href="contact" class="btn btn-solid">Enquire about equipment</a>
@@ -31,7 +32,7 @@
             </div>
             <div class="duo-photo">
                 <img src="assets/images/g-22.png" alt="Mining excavation equipment at work underground" loading="lazy">
-                <div class="tag"><span>Konongo site work</span><span>Div. 01</span></div>
+                <div class="tag"><span>Konongo-Odumase site work</span><span>Div. 01</span></div>
             </div>
         </div>
     </section>
@@ -120,7 +121,7 @@
                 <div class="process-step">
                     <span class="num">STEP 03</span>
                     <h3>Collect or delivery</h3>
-                    <p>Pick up from our Konongo yard, or arrange delivery to site within the region.</p>
+                    <p>Pick up from our Konongo-Odumase yard, or arrange delivery to site within the region.</p>
                 </div>
             </div>
         </div>
@@ -135,8 +136,15 @@
                 <p class="content-lead">Direct imports and a broader trading vision.</p>
             </div>
             <div class="content-body reveal">
-                <p>While we already supply essential mining equipment locally—such as Parsun pumps, oil seal pump machines, complete gaskets, and heavy-duty water hoses—we are actively scaling up our operations. We are establishing direct import channels with international manufacturing hubs, including China, to bring in world-class machinery directly to Ghana.</p>
-                <p>To support this massive step up in inventory, we have acquired dedicated land and are preparing to construct a large-scale warehouse facility. But our vision doesn't stop at mining and agriculture; our long-term mission is to expand our trading operations to include high-quality building materials, electronics, and home appliances, positioning Mukhlis Farhan Trading Limited as a central pillar of regional commerce.</p>
+                <p>While we already supply essential mining equipment locally—such as Parsun pumps, oil seal pump
+                    machines, complete gaskets, and heavy-duty water hoses—we are actively scaling up our operations. We
+                    are establishing direct import channels with international manufacturing hubs, including China, to
+                    bring in world-class machinery directly to Ghana.</p>
+                <p>To support this massive step up in inventory, we have acquired dedicated land and are preparing to
+                    construct a large-scale warehouse facility. But our vision doesn't stop at mining and agriculture;
+                    our long-term mission is to expand our trading operations to include high-quality building
+                    materials, electronics, and home appliances, positioning Mukhlis Farhan Trading Limited as a central
+                    pillar of regional commerce.</p>
             </div>
         </div>
     </section>

@@ -1,10 +1,10 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>
-	<?php echo isset($page_title) ? htmlspecialchars($page_title) : 'Mukhlis Farhan Trading Limited — Konongo, Ghana'; ?>
+	<?php echo isset($page_title) ? htmlspecialchars($page_title) : 'Mukhlis Farhan Trading Limited — Konongo-Odumase, Ghana'; ?>
 </title>
 <meta name="description"
-	content="<?php echo isset($page_description) ? htmlspecialchars($page_description) : 'Mukhlis Farhan Trading Limited: mining equipment, farming machinery, cattle farming and gold trading, based in Konongo, Ashanti Region, Ghana since 2022.'; ?>">
+	content="<?php echo isset($page_description) ? htmlspecialchars($page_description) : 'Mukhlis Farhan Trading Limited: mining equipment, farming machinery, cattle farming and gold trading, based in Konongo-Odumase, Ashanti Region, Ghana since 2022.'; ?>">
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
@@ -40,10 +40,10 @@
   "@type": "LocalBusiness",
   "name": "Mukhlis Farhan Trading Limited",
   "image": "logo.PNG",
-  "description": "Mining equipment, farming machinery, cattle farming and gold trading based in Konongo, Ashanti Region, Ghana.",
+  "description": "Mining equipment, farming machinery, cattle farming and gold trading based in Konongo-Odumase, Ashanti Region, Ghana.",
   "address": {
 	"@type": "PostalAddress",
-	"addressLocality": "Konongo",
+	"addressLocality": "Konongo-Odumase",
 	"addressRegion": "Ashanti Region",
 	"addressCountry": "GH"
   },

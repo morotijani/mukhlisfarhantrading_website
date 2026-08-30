@@ -4,7 +4,7 @@
 <head>
 	<?php
 	$page_title = "Farming Equipment & Machinery — Mukhlis Farhan Trading Limited";
-	$page_description = "Farming equipment and machinery — hand tools, irrigation, ploughs and seasonal inputs — from Mukhlis Farhan Trading Limited, Konongo, Ghana.";
+	$page_description = "Farming equipment and machinery — hand tools, irrigation, ploughs and seasonal inputs — from Mukhlis Farhan Trading Limited, Konongo-Odumase, Ghana.";
 	$page_slug = "farm-machinery";
 	include 'includes/head.php';
 	?>
@@ -49,7 +49,9 @@
 					tillage gear ahead of planting, sprayers and irrigation through the growing months. We stock toward
 					that calendar rather than a flat catalogue, so what a farmer needs tends to be what's actually on
 					the shelf when they need it.</p>
-				<p>Our inventory covers everything from basic hand tools to heavy-duty farming equipment, including high-capacity pumping machines, durable water hoses, and a comprehensive selection of spare parts to keep your machinery running without interruption.</p>
+				<p>Our inventory covers everything from basic hand tools to heavy-duty farming equipment, including
+					high-capacity pumping machines, durable water hoses, and a comprehensive selection of spare parts to
+					keep your machinery running without interruption.</p>
 				<p>We work with smallholders and larger operations alike. If you're planning a season and aren't sure
 					what to prioritise, we'll talk it through with you rather than just sell you the largest order.</p>
 			</div>
@@ -66,14 +68,16 @@
 							<circle cx="28" cy="6" r="2" />
 						</svg></div>
 					<h3>Hand tools, Hardware &amp; Spare Parts</h3>
-					<p>Cutlasses, hoes, rakes, general hardware, and a wide selection of spare parts to keep your machinery running.</p>
+					<p>Cutlasses, hoes, rakes, general hardware, and a wide selection of spare parts to keep your
+						machinery running.</p>
 				</div>
 				<div class="offer-item">
 					<div class="icon"><svg viewBox="0 0 34 34" fill="none" stroke="currentColor" stroke-width="1.6">
 							<path d="M17 4 v8 M9 10 l16 0 M9 10 l-4 20 M25 10 l4 20 M13 10 l-2 20 M21 10 l2 20" />
 						</svg></div>
 					<h3>Pumping Machines &amp; Irrigation</h3>
-					<p>High-capacity pumping machines, water hoses, sprayers, and irrigation fittings for smallholder and mid-size plots.</p>
+					<p>High-capacity pumping machines, water hoses, sprayers, and irrigation fittings for smallholder
+						and mid-size plots.</p>
 				</div>
 				<div class="offer-item">
 					<div class="icon"><svg viewBox="0 0 34 34" fill="none" stroke="currentColor" stroke-width="1.6">

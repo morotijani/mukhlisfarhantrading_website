@@ -4,7 +4,7 @@
 <head>
   <?php
   $page_title = "About Us — Mukhlis Farhan Trading Limited";
-  $page_description = "Mukhlis Farhan Trading Limited was established in 2022 and registered in 2025 in Konongo, Ashanti Region, Ghana. Learn our story, mission and vision.";
+  $page_description = "Mukhlis Farhan Trading Limited was established in 2022 and registered in 2025 in Konongo-Odumase, Ashanti Region, Ghana. Learn our story, mission and vision.";
   $page_slug = "about";
   include 'includes/head.php';
   ?>
@@ -12,7 +12,7 @@
 
 <body>
 
-    <?php include 'includes/header.php'; ?>
+  <?php include 'includes/header.php'; ?>
 
   <!-- ================= HERO ================= -->
   <section class="inner-hero">
@@ -20,7 +20,7 @@
       <div>
         <div class="breadcrumb"><a href="index">Home</a><span class="sep">/</span><span class="current">About</span>
         </div>
-        <div class="eyebrow">Konongo, Ashanti Region — Est. 2022</div>
+        <div class="eyebrow">Konongo-Odumase, Ashanti Region — Est. 2022</div>
         <h1>People before paperwork, trust before turnover.</h1>
         <p class="lead">Mukhlis Farhan Trading Limited was built on the idea that a trading house is only as good as the
           last deal it kept honest. Here's the story behind the four divisions.</p>
@@ -45,7 +45,9 @@
         <p class="content-lead">Built in the Ashanti goldfields, run on trust.</p>
       </div>
       <div class="content-body reveal">
-        <p>Mukhlis Farhan Trading Limited was established in 2022 and officially registered in 2025 in Konongo, in the heart of Ghana's Ashanti Region — a
+        <p>Mukhlis Farhan Trading Limited was established in 2022 and officially registered in 2025 in Konongo-Odumase,
+          in the
+          heart of Ghana's Ashanti Region — a
           town shaped by generations of mining and farming. That inheritance is the reason the business trades in four
           directions at once: equipment for the pits and quarries, machinery for the farm, cattle raised and sold with
           care, and gold bought and weighed with an honest scale.</p>
@@ -53,11 +55,12 @@
           transaction at a time. Whether a client is outfitting a small-scale mining site, stocking a farm ahead of
           planting season, expanding a herd, or bringing gold to be valued, they deal with the same people, the same
           standards, and the same word kept.</p>
-        <p>We're a Ghanaian-owned business, and we intend to stay one — rooted in Konongo, answerable to the communities
+        <p>We're a Ghanaian-owned business, and we intend to stay one — rooted in Konongo-Odumase, answerable to the
+          communities
           we trade with, and built for the long relationship rather than the single sale.</p>
         <div class="about-figures">
           <div><b>2022</b><span>Established (Reg. 2025)</span></div>
-          <div><b>Konongo</b><span>Head office</span></div>
+          <div><b>Konongo-Odumase</b><span>Head office</span></div>
           <div><b>04</b><span>Trading divisions</span></div>
           <div><b>Ashanti</b><span>Region &amp; beyond</span></div>
         </div>
@@ -116,7 +119,8 @@
               <path d="M17 10 v7 l5 3" />
             </svg></div>
           <h3>Local knowledge</h3>
-          <p>We're based in Konongo, not visiting — we know the region's seasons, sites and rhythms first-hand.</p>
+          <p>We're based in Konongo-Odumase, not visiting — we know the region's seasons, sites and rhythms first-hand.
+          </p>
         </div>
         <div class="values-item">
           <div class="icon"><svg viewBox="0 0 34 34" fill="none" stroke="currentColor" stroke-width="1.6">
@@ -148,7 +152,7 @@
     </div>
   </section>
 
-    <?php include 'includes/footer.php'; ?>
+  <?php include 'includes/footer.php'; ?>
 
   <script src="assets/js/main.js"></script>
 </body>

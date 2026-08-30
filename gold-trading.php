@@ -4,7 +4,7 @@
 <head>
     <?php
     $page_title = "Gold Buying & Selling — Mukhlis Farhan Trading Limited";
-    $page_description = "Fair, transparent gold buying and selling in Konongo, Ashanti Region, Ghana — evaluation, purchase and sale with documentation on every deal.";
+    $page_description = "Fair, transparent gold buying and selling in Konongo-Odumase, Ashanti Region, Ghana — evaluation, purchase and sale with documentation on every deal.";
     $page_slug = "gold-trading";
     include 'includes/head.php';
     ?>
@@ -12,7 +12,7 @@
 
 <body>
 
-        <?php include 'includes/header.php'; ?>
+    <?php include 'includes/header.php'; ?>
 
     <!-- ================= HERO ================= -->
     <section class="inner-hero">
@@ -52,9 +52,12 @@
                 <p>We buy from small-scale miners, individuals and other sellers, and we sell to registered buyers.
                     Whichever side of the counter you're on, you leave with paperwork that records exactly what happened
                     — weight, purity, price and date.</p>
-                <div style="margin-top:24px;padding:18px 24px;background:rgba(198,154,62,0.1);border-left:4px solid var(--gold-bright);border-radius:0 4px 4px 0;color:var(--text);">
-                    <strong style="display:block;margin-bottom:4px;color:var(--gold-bright);">Licensed Tier-2 Buyers</strong>
-                    We operate strictly under the laws and regulations of the Ghana Minerals Commission, ensuring all gold trading is fully compliant, transparent, and secure.
+                <div
+                    style="margin-top:24px;padding:18px 24px;background:rgba(198,154,62,0.1);border-left:4px solid var(--gold-bright);border-radius:0 4px 4px 0;color:var(--text);">
+                    <strong style="display:block;margin-bottom:4px;color:var(--gold-bright);">Licensed Tier-2
+                        Buyers</strong>
+                    We operate strictly under the laws and regulations of the Ghana Gold Board, ensuring all
+                    gold trading is fully compliant, transparent, and secure.
                 </div>
             </div>
         </div>
@@ -169,7 +172,7 @@
         </div>
     </section>
 
-        <?php include 'includes/footer.php'; ?>
+    <?php include 'includes/footer.php'; ?>
 
     <script src="assets/js/main.js"></script>
 </body>

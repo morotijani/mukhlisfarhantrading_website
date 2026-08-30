@@ -3,8 +3,8 @@
 
 <head>
   <?php
-  $page_title = "Mukhlis Farhan Trading Limited — Konongo, Ghana";
-  $page_description = "Mukhlis Farhan Trading Limited: mining equipment, farming machinery, cattle farming and gold trading, based in Konongo, Ashanti Region, Ghana since 2022.";
+  $page_title = "Mukhlis Farhan Trading Limited — Konongo-Odumase, Ghana";
+  $page_description = "Mukhlis Farhan Trading Limited: mining equipment, farming machinery, cattle farming and gold trading, based in Konongo-Odumase, Ashanti Region, Ghana since 2022.";
   $page_slug = "";
   include 'includes/head.php';
   ?>
@@ -18,13 +18,13 @@
   <section class="hero" id="top">
     <div class="wrap">
       <div>
-        <div class="eyebrow">Konongo, Ashanti Region — Est. 2022</div>
+        <div class="eyebrow">Konongo-Odumase, Ashanti Region — Est. 2022</div>
         <h1>What comes from<br>the ground, <em>we trade&nbsp;honestly.</em></h1>
         <p class="hero-sub">Mukhlis Farhan Trading Limited moves between four trades rooted in Ghanaian soil and rock —
           mining equipment, farm machinery, cattle, and gold — with the same standard of fair dealing in each.</p>
         <div class="hero-cta">
           <a href="#services" class="btn btn-solid">See our four trades</a>
-          <a href="#contact" class="btn btn-ghost">Visit us in Konongo</a>
+          <a href="#contact" class="btn btn-ghost">Visit us in Konongo-Odumase</a>
         </div>
         <div class="hero-stats">
           <div><b>2022</b><span>Established (Reg. 2025)</span></div>
@@ -104,9 +104,9 @@
   <div class="strip">
     <div class="strip-track">
       <span>MINING EQUIPMENT &amp; TOOLS &nbsp;•&nbsp; FARMING MACHINERY &nbsp;•&nbsp; CATTLE FARMING &nbsp;•&nbsp; GOLD
-        BUYING &amp; SELLING &nbsp;•&nbsp; KONONGO, GHANA &nbsp;•&nbsp;</span>
+        BUYING &amp; SELLING &nbsp;•&nbsp; KONONGO-ODUMASE, GHANA &nbsp;•&nbsp;</span>
       <span>MINING EQUIPMENT &amp; TOOLS &nbsp;•&nbsp; FARMING MACHINERY &nbsp;•&nbsp; CATTLE FARMING &nbsp;•&nbsp; GOLD
-        BUYING &amp; SELLING &nbsp;•&nbsp; KONONGO, GHANA &nbsp;•&nbsp;</span>
+        BUYING &amp; SELLING &nbsp;•&nbsp; KONONGO-ODUMASE, GHANA &nbsp;•&nbsp;</span>
     </div>
   </div>
 
@@ -119,7 +119,9 @@
         <p class="about-lead">Built in the Ashanti goldfields, run on trust.</p>
       </div>
       <div class="about-body reveal">
-        <p>Mukhlis Farhan Trading Limited was established in 2022 and officially registered in 2025 in Konongo, in the heart of Ghana's Ashanti Region — a
+        <p>Mukhlis Farhan Trading Limited was established in 2022 and officially registered in 2025 in Konongo-Odumase,
+          in the
+          heart of Ghana's Ashanti Region — a
           town shaped by generations of mining and farming. That inheritance is the reason the business trades in four
           directions at once: equipment for the pits and quarries, machinery for the farm, cattle raised and sold with
           care, and gold bought and weighed with an honest scale.</p>
@@ -129,7 +131,7 @@
           standards, and the same word kept.</p>
         <div class="about-figures">
           <div><b>2022</b><span>Established (Reg. 2025)</span></div>
-          <div><b>Konongo</b><span>Head office</span></div>
+          <div><b>Konongo-Odumase</b><span>Head office</span></div>
           <div><b>04</b><span>Trading divisions</span></div>
           <div><b>Ashanti</b><span>Region &amp; beyond</span></div>
         </div>
@@ -321,7 +323,8 @@
               <path d="M17 10 v7 l5 3" />
             </svg></div>
           <h3>Local, and on call</h3>
-          <p>Based in Konongo with people who know the mining and farming calendars of the region first-hand.</p>
+          <p>Based in Konongo-Odumase with people who know the mining and farming calendars of the region first-hand.
+          </p>
         </div>
         <div class="why-item">
           <div class="icon"><svg viewBox="0 0 34 34" fill="none" stroke="currentColor" stroke-width="1.6">
@@ -363,7 +366,7 @@
   <section class="cta-banner" id="contact-cta">
     <div class="wrap reveal">
       <h2>Ready to trade with us?</h2>
-      <p>Whether you need equipment, cattle, or want to sell gold — get in touch with our Konongo office.</p>
+      <p>Whether you need equipment, cattle, or want to sell gold — get in touch with our Konongo-Odumase office.</p>
       <a href="contact" class="btn btn-solid">Contact Us</a>
     </div>
   </section>

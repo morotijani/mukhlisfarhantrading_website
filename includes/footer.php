@@ -9,7 +9,8 @@
                     <div class="brand-name">Mukhlis Farhan<span style="color:var(--cream-dim);">Trading Limited</span>
                     </div>
                 </div>
-                <p class="tagline">Mining equipment, farming machinery, cattle and gold — traded fairly from Konongo,
+                <p class="tagline">Mining equipment, farming machinery, cattle and gold — traded fairly from
+                    Konongo-Odumase,
                     Ghana, since 2022.</p>
             </div>
             <div>
@@ -32,7 +33,7 @@
             <div>
                 <h4>Visit</h4>
                 <ul>
-                    <li>Konongo, Ashanti Region</li>
+                    <li>Konongo-Odumase, Ashanti Region</li>
                     <li>Ghana</li>
                     <li><a href="tel:+233554001608" style="color:var(--cream-dim);"></a>+233 55 400 1608</a></li>
                 </ul>
@@ -40,7 +41,7 @@
         </div>
         <div class="bottom-row">
             <span>&copy; <span id="year"></span> Mukhlis Farhan Trading Limited. All rights reserved.</span>
-            <span>Registered in Ghana · Konongo, Ashanti Region</span>
+            <span>Registered in Ghana · Konongo-Odumase, Ashanti Region</span>
         </div>
     </div>
 </footer>

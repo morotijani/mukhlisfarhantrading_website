@@ -4,7 +4,7 @@
 <head>
 	<?php
 	$page_title = "Cattle Farming — Mukhlis Farhan Trading Limited";
-	$page_description = "Cattle rearing, herd management and livestock sales from Mukhlis Farhan Trading Limited, Konongo, Ashanti Region, Ghana.";
+	$page_description = "Cattle rearing, herd management and livestock sales from Mukhlis Farhan Trading Limited, Konongo-Odumase, Ashanti Region, Ghana.";
 	$page_slug = "cattle-farming";
 	include 'includes/head.php';
 	?>
@@ -22,7 +22,8 @@
 						03 — Cattle</span></div>
 				<div class="eyebrow">Division 03 — Est. 2023</div>
 				<h1>Livestock raised with care, sold with honesty.</h1>
-				<p class="lead">A managed herd on land near Konongo, with animals sold and bought on terms both sides
+				<p class="lead">A managed herd on land near Konongo-Odumase, with animals sold and bought on terms both
+					sides
 					understand before anything is agreed.</p>
 				<div class="hero-cta">
 					<a href="contact" class="btn btn-solid">Enquire about cattle</a>
@@ -31,7 +32,7 @@
 			</div>
 			<div class="duo-photo">
 				<img src="assets/images/cattle.jpg" alt="Cattle grazing on a green pasture" loading="lazy">
-				<div class="tag"><span>Managed pasture, Konongo</span><span>Div. 03</span></div>
+				<div class="tag"><span>Managed pasture, Konongo-Odumase</span><span>Div. 03</span></div>
 			</div>
 		</div>
 	</section>
@@ -49,7 +50,11 @@
 					to spot a problem before it becomes one. That's the standard we hold our operation to, and it's why
 					buyers who've worked with us once tend to come back when they're ready to expand a herd or restock.
 				</p>
-				<p>Our active cattle farm is currently managed through traditional free-range grazing, with experienced herdsmen guiding the cattle to feed daily and returning them safely each evening. Looking to the future, we have acquired dedicated land and are in the planning stages of constructing modern housing facilities. These upcoming structures will allow us to transition to an integrated feeding system, ensuring optimal nutrition and care.</p>
+				<p>Our active cattle farm is currently managed through traditional free-range grazing, with experienced
+					herdsmen guiding the cattle to feed daily and returning them safely each evening. Looking to the
+					future, we have acquired dedicated land and are in the planning stages of constructing modern
+					housing facilities. These upcoming structures will allow us to transition to an integrated feeding
+					system, ensuring optimal nutrition and care.</p>
 				<p>Whether you're buying your first few head, expanding an existing herd, or looking to sell cattle
 					you've raised, we deal directly and explain condition, weight and price plainly before any money
 					changes hands.</p>
@@ -121,7 +126,8 @@
 				<div class="process-step">
 					<span class="num">STEP 03</span>
 					<h3>Handover</h3>
-					<p>Cattle are handed over at our land near Konongo, or transport is arranged where needed.</p>
+					<p>Cattle are handed over at our land near Konongo-Odumase, or transport is arranged where needed.
+					</p>
 				</div>
 			</div>
 		</div>
