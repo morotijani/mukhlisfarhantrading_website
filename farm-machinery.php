@@ -122,7 +122,7 @@
 				<div class="process-step">
 					<span class="num">STEP 03</span>
 					<h3>Collect or delivery</h3>
-					<p>Pick up from our Konongo yard, or arrange delivery to your farm within the region.</p>
+					<p>Pick up from our Konongo-Odumase yard, or arrange delivery to your farm within the region.</p>
 				</div>
 			</div>
 		</div>

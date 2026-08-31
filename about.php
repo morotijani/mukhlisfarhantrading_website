@@ -81,7 +81,8 @@
         <div class="mv-card">
           <span class="tagnum">Our Mission</span>
           <h3>To trade honestly in what the Ashanti Region produces and depends on.</h3>
-          <p>We exist to supply mining and farming communities in and around Konongo with the equipment, livestock and
+          <p>We exist to supply mining and farming communities in and around Konongo-Odumase with the equipment,
+            livestock and
             gold trade they need — priced fairly, explained plainly, and backed by people who stand behind what they
             sell. Every division is run to the same rule: no client should ever have to wonder if they were dealt with
             straight.</p>
