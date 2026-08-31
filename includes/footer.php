@@ -36,6 +36,9 @@
                     <li>Konongo-Odumase, Ashanti Region</li>
                     <li>Ghana</li>
                     <li><a href="tel:+233554001608" style="color:var(--cream-dim);"></a>+233 55 400 1608</a></li>
+                    <li><a href="tel:+233591554374" style="color:var(--cream-dim);"></a>+233 59 155 4374</a></li>
+                    <li><a href="tel:+233507994815" style="color:var(--cream-dim);"></a>+233 50 799 4815</a></li>
+                    <li><a href="tel:+233246961122" style="color:var(--cream-dim);"></a>+233 24 696 1122</a></li>
                 </ul>
             </div>
         </div>
